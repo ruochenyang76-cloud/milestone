@@ -9,7 +9,7 @@ This project is part of the **DATA 542** course at the University of British Col
 
 ## Team Members
 * **Ruochen Yang**
-* **Anita Zeng**
+
 
 ## Research Questions
 We focus on three key questions regarding AI agent performance:
